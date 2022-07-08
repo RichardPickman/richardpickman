@@ -1,0 +1,19 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            li {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            </style>
+            <ul>
+              <li><img src="https://emojis.slackmojis.com/emojis/images/1651610131/58754/dog.png?1651610131" width="30"/><a href=""> Pets</a> - pure js</li>
+              <li><a href="">Keyboard</a> - pure js</li>
+              <li><a href="">Munchkin Level Counter</a> - NextJS, NodeJS, React, Self-made state container, WebSockets</li>
+              <li><img src="https://emojis.slackmojis.com/emojis/images/1643514778/7887/webpack.png?1643514778" width="30"/> <a href="">My own WebPack template</a></li>
+            </ul>
+        </div>
+    </foreignObject>
+</svg>
