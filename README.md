@@ -19,7 +19,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-3a8bfc?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h3> My pet projects links </h3>
+<!-- <h3> My pet projects links </h3>
   <ul>
     <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="">  Pets</a> - pure js</li>
     <li><img src="https://emojis.slackmojis.com/emojis/images/1643512048/44657/keyboard.png?1643512048" width="30"/> <a href="">  Keyboard</a> - pure js</li>
@@ -39,7 +39,7 @@
     <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://www.typescriptlang.org/">  TypeScript</a></li>
     <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://sass-lang.com/">  SASS</a></li>
     <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://webpack.js.org/">  WebPack</a></li>
-  </ul>
+  </ul> -->
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardpickman&show_icons=true&theme=github_dark)](https://github.com/richardpickman/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardpickman&layout=compact&theme=github_dark)](https://github.com/richardpickman/github-readme-stats)
