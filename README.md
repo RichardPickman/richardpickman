@@ -21,9 +21,9 @@ I'm Vasilii, Fullstack developer from <img src="https://cdn-icons-png.flaticon.c
 </p>
 <h3> My pet projects links </h3>
   <ul>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="">  Online shop </a> - pure js</li>
+    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://richardpickman.github.io/hawkins-shop/products.html">  Online shop </a> - pure js</li>
     <li><img src="https://emojis.slackmojis.com/emojis/images/1643512048/44657/keyboard.png?1643512048" width="30"/> <a href="https://richardpickman.github.io/keyboard/">  Keyboard </a> - pure js</li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515834/18499/joker_cards.png?1643515834" width="30"/> <a href="">  Munchkin Level Counter </a> - NextJS, NodeJS, React, Self-made state container, WebSockets</li>
+    <!--<li><img src="https://emojis.slackmojis.com/emojis/images/1643515834/18499/joker_cards.png?1643515834" width="30"/> <a href="">  Munchkin Level Counter </a> - NextJS, NodeJS, React, Self-made state container, WebSockets</li> -->
     <li><img src="https://emojis.slackmojis.com/emojis/images/1643514778/7887/webpack.png?1643514778" width="30"/> <a href="https://github.com/RichardPickman/js-webpack-boilerplate">  My own WebPack template</a></li>
   </ul>
  
