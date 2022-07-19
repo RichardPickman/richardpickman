@@ -19,15 +19,15 @@ I'm Vasilii, Fullstack developer from <img src="https://cdn-icons-png.flaticon.c
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-3a8bfc?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<!-- <h3> My pet projects links </h3>
+<h3> My pet projects links </h3>
   <ul>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="">  Pets</a> - pure js</li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643512048/44657/keyboard.png?1643512048" width="30"/> <a href="">  Keyboard</a> - pure js</li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515834/18499/joker_cards.png?1643515834" width="30"/> <a href="">  Munchkin Level Counter</a> - NextJS, NodeJS, React, Self-made state container, WebSockets</li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643514778/7887/webpack.png?1643514778" width="30"/> <a href="">  My own WebPack template</a></li>
+    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="">  Online shop </a> - pure js</li>
+    <li><img src="https://emojis.slackmojis.com/emojis/images/1643512048/44657/keyboard.png?1643512048" width="30"/> <a href="https://richardpickman.github.io/keyboard/">  Keyboard </a> - pure js</li>
+    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515834/18499/joker_cards.png?1643515834" width="30"/> <a href="">  Munchkin Level Counter </a> - NextJS, NodeJS, React, Self-made state container, WebSockets</li>
+    <li><img src="https://emojis.slackmojis.com/emojis/images/1643514778/7887/webpack.png?1643514778" width="30"/> <a href="https://github.com/RichardPickman/js-webpack-boilerplate">  My own WebPack template</a></li>
   </ul>
-  
-<h3> Most common packages </h3>
+ 
+<!--<h3> Most common packages </h3>
   <ul>
     <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://www.npmjs.com/package/dotenv">  Dotenv</a></li>
     <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://www.npmjs.com/package/cross-env">  Cross-env</a></li>
