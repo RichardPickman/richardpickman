@@ -26,6 +26,7 @@ I'm Vasilii, Fullstack developer from <img src="https://cdn-icons-png.flaticon.c
     <!--<li><img src="https://emojis.slackmojis.com/emojis/images/1643515834/18499/joker_cards.png?1643515834" width="30"/> <a href="">  Munchkin Level Counter </a> - NextJS, NodeJS, React, Self-made state container, WebSockets</li> -->
     <li><img src="https://emojis.slackmojis.com/emojis/images/1643514778/7887/webpack.png?1643514778" width="30"/> <a href="https://github.com/RichardPickman/js-webpack-boilerplate">  My own WebPack template</a></li>
     <li><img src="https://emojis.slackmojis.com/emojis/images/1645391937/53467/language.png?1645391937" width="30"/> <a href="https://github.com/RichardPickman/rslang">Rolling Scopes</a>  - Language Training Application as backend developer</li>
+    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> My own quite big social media like project for college. <a href="https://github.com/RichardPickman/massage">Frontend</a> - React. <a href="https://github.com/RichardPickman/massage">Back-end</a> - Express, MongoDB</li>
   </ul>
  
 <!--<h3> Most common packages </h3>
