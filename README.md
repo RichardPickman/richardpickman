@@ -19,29 +19,5 @@ I am Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/1
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-3a8bfc?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h3> My pet projects links </h3>
-  <ul>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://richardpickman.github.io/hawkins-shop/products.html">  Online shop </a> - pure js</li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643512048/44657/keyboard.png?1643512048" width="30"/> <a href="https://richardpickman.github.io/keyboard/">  Keyboard </a> - pure js</li>
-    <!--<li><img src="https://emojis.slackmojis.com/emojis/images/1643515834/18499/joker_cards.png?1643515834" width="30"/> <a href="">  Munchkin Level Counter </a> - NextJS, NodeJS, React, Self-made state container, WebSockets</li> -->
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643514778/7887/webpack.png?1643514778" width="30"/> <a href="https://github.com/RichardPickman/js-webpack-boilerplate">  My own WebPack template</a></li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1645391937/53467/language.png?1645391937" width="30"/> <a href="https://github.com/RichardPickman/rslang">Rolling Scopes</a>  - Language Training Application as backend developer</li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> My own quite big social media like project for college. <a href="https://github.com/RichardPickman/massage">Frontend</a> - React. <a href="https://github.com/RichardPickman/massage">Back-end</a> - Express, MongoDB</li>
-  </ul>
- 
-<!--<h3> Most common packages </h3>
-  <ul>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://www.npmjs.com/package/dotenv">  Dotenv</a></li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://www.npmjs.com/package/cross-env">  Cross-env</a></li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://github.com/facebook/create-react-app">  React</a></li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://www.npmjs.com/package/eslint">  Eslint</a></li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://babeljs.io/">  Babel</a></li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://postcss.org/">  PostCSS</a></li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://github.com/postcss/autoprefixer">  Autoprefixer</a></li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://www.typescriptlang.org/">  TypeScript</a></li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://sass-lang.com/">  SASS</a></li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1643515676/17007/doge.gif?1643515676" width="30"/> <a href="https://webpack.js.org/">  WebPack</a></li>
-  </ul> -->
-  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardpickman&show_icons=true&theme=github_dark)](https://github.com/richardpickman/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardpickman&layout=compact&theme=github_dark)](https://github.com/richardpickman/github-readme-stats)
