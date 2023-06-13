@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643516237/22654/fancy_cat.png?1643516237" width="30"/></h1>
 
-I am Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Saint Petersburg, Russia</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Hawkins, Indiana</b>.</p>
+I am Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Saint Petersburg, Russia</b>, currently living in <b>Hawkins, Indiana</b>.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
