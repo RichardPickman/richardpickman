@@ -19,5 +19,6 @@ I am Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/1
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-3a8bfc?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardpickman&show_icons=true&theme=github_dark)](https://github.com/richardpickman/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardpickman&layout=compact&theme=github_dark)](https://github.com/richardpickman/github-readme-stats)
