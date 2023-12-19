@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardpickman&label=Profile%20views&color=0e75b6&style=flat" alt="richardpickman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardpickman" alt="richardpickman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardpickman&theme=darkhub" alt="richardpickman" /></a> </p>
 
-- 🔭 I’m currently working on own start-up [Wisher](https://github.com/DoubleAut/wished/) and the final project of RS School React course [GraphiQL](https://github.com/AlanMamphs/graphiql-app)
+-   🔭 I’m currently working on own start-up [Wisher](https://github.com/DoubleAut/wished/) and the final project of RS School React course [GraphiQL](https://github.com/AlanMamphs/graphiql-app)
 
-- 👯 I’m looking to collaborate on [Linux](https://github.com/torvalds/linux)
+-   👯 I’m looking to collaborate on [Linux](https://github.com/torvalds/linux)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/richardpickman)
+-   👨‍💻 All of my projects are available at [Github](https://github.com/richardpickman)
 
-- 📫 How to reach me **real@richardpickman.com**
+-   📫 How to reach me **real@richardpickman.com**
 
-- 📄 Know about my experiences [www.richardpickman.com](https://www.richardpickman.com)
+-   📄 Know about my experiences [www.richardpickman.com](https://www.richardpickman.com)
 
-- ⚡ Fun fact **I get phisically ill when see a bad code.**
+-   ⚡ Fun fact **I get phisically ill when see a bad code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardpickman&show_icons=true&locale=en" alt="richardpickman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richardpickman&" alt="richardpickman" /></p>
-
