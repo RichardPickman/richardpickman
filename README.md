@@ -19,8 +19,7 @@
 
 -   📄 Know about my experiences [www.richardpickman.com](https://www.richardpickman.com)
 
--   ⚡ Fun fact **I get phisically ill when see a bad code.**
-
+-   ⚡ Fun fact: **The Industrial Revolution and its consequences have been a disaster for the human race.**
 ## Connect with me:
 
 <a href="https://linkedin.com/in/id9813469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="id9813469" height="30" width="40" /></a>
