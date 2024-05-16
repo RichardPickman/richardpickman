@@ -17,7 +17,7 @@
 
 -   📫 How to reach me **real@richardpickman.com**
 
--   📄 Know about my experiences [www.richardpickman.com](https://www.richardpickman.com)
+-   📄 Know about my experiences [www.richardpickman.space](https://www.richardpickman.space)
 
 -   ⚡ Fun fact: **The Industrial Revolution and its consequences have been a disaster for the human race.**
 ## Connect with me:
