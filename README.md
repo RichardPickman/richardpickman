@@ -15,7 +15,7 @@
 
 -   👨‍💻 All of my projects are available at [Github](https://github.com/richardpickman)
 
--   📫 How to reach me **real@richardpickman.com**
+-   📫 How to reach me **real@richardpickman.space**
 
 -   📄 Know about my experiences [www.richardpickman.space](https://www.richardpickman.space)
 
