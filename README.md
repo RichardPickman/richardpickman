@@ -9,7 +9,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardpickman&theme=darkhub" alt="richardpickman" /></a>
 </p>
 
--   🔭 I’m currently working on own start-up [Wisher](https://github.com/DoubleAut/wished/) and the final project of RS School React course [GraphiQL](https://github.com/AlanMamphs/graphiql-app)
+-   🔭 I’m currently working on own start-up [Wisher](https://github.com/DoubleAut/wished/)
 
 -   👯 I’m looking to collaborate on [Linux](https://github.com/torvalds/linux)
 
