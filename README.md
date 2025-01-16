@@ -19,7 +19,7 @@
 
 -   📄 Know about my experiences [www.richardpickman.space](https://www.richardpickman.space)
 
--   ⚡ Fun monologue: **I've been waiting to hear those words. Waiting so very long. But it wasn't the full truth was it? You know, I think there's a part of you, buried somewhere deep, that wanted me to die that day. That was maybe even relieved. Happy. That's why you stood there isn't it? It's okay. You can admit that now. No more lies. No more hiding. That is why you feel such guilt, why you hide from your friends, why you hide from the world and why, late at night, you have sometimes wished to follow me. Follow me into death. That is why I am here. To end your suffering, once and for all. It is time... Time for you to join me.**
+-   ⚡ Fun quote: **I'm gonna start guessing. I dunno... Is it... a dinosaur?**
 
 ## Languages and Tools:
 
