@@ -19,7 +19,7 @@
 
 -   📄 Know about my experiences [www.richardpickman.space](https://www.richardpickman.space)
 
--   ⚡ Fun quote: **I'm gonna start guessing. I dunno... Is it... a dinosaur?**
+-   ⚡ Favourite quote: Just think about the good parts to fear. Like, you run faster. You're more focused. You don't feel pain as much. Every bad feeling, your palms sweating, your heart racing, they're all signs you're actually stronger. So when you feel afraid, you should think about how your body is getting ready for what's coming. Only when weak may I carry my true strength.
 
 ## Languages and Tools:
 
