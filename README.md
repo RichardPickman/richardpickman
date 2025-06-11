@@ -9,13 +9,13 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardpickman&theme=darkhub" alt="richardpickman" /></a>
 </p>
 
--   🔭 I’m currently working on own start-up [Wished](https://github.com/DoubleAut/wished/)
+-   🔭 I’m currently working on startup company Vision Project!
 
 -   👯 I’m looking to collaborate on [Linux](https://github.com/torvalds/linux)
 
 -   👨‍💻 All of my projects are available at [Github](https://github.com/richardpickman)
 
--   📫 How to reach me **real@richardpickman.space**
+-   📫 How to reach me **drezzerock@gmail.com**
 
 -   📄 Know about my experiences [www.richardpickman.space](https://www.richardpickman.space)
 
