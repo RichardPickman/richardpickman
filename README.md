@@ -9,15 +9,15 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardpickman&theme=darkhub" alt="richardpickman" /></a>
 </p>
 
--   🔭 I’m currently working on startup company Vision Project!
+-   🔭 I’m currently working on own start-up [Wished](https://github.com/DoubleAut/wished/)
 
 -   👯 I’m looking to collaborate on [Linux](https://github.com/torvalds/linux)
 
 -   👨‍💻 All of my projects are available at [Github](https://github.com/richardpickman)
 
--   📫 How to reach me **drezzerock@gmail.com**
+-   📫 How to reach me **real@richardpickman.space**
 
--   📄 Know about my experiences [www.richardpickman.space](https://www.richardpickman.space)
+-   📄 Know about my experiences [https://richardpickman.vercel.app](https://richardpickman.vercel.app/)
 
 -   ⚡ Favourite quote: Just think about the good parts to fear. Like, you run faster. You're more focused. You don't feel pain as much. Every bad feeling, your palms sweating, your heart racing, they're all signs you're actually stronger. So when you feel afraid, you should think about how your body is getting ready for what's coming. Only when weak may I carry my true strength.
 
