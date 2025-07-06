@@ -15,7 +15,7 @@
 
 -   👨‍💻 All of my projects are available at [Github](https://github.com/richardpickman)
 
--   📫 How to reach me **real@richardpickman.space**
+-   📫 How to reach me **drezzerock@gmail.com**
 
 -   📄 Know about my experiences [https://richardpickman.vercel.app](https://richardpickman.vercel.app/)
 
