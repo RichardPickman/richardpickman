@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Pickman</h1>
-<h3 align="center">A passionate software engineer from Saint Petersburg, Russia.</h3>
+<h3 align="center">A passionate software engineer from Hawkins, Indiana.</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=richardpickman&label=Profile%20views&color=0e75b6&style=flat" alt="richardpickman" />
@@ -9,7 +9,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardpickman&theme=darkhub" alt="richardpickman" /></a>
 </p>
 
--   🔭 I’m currently working on own start-up [Wished](https://github.com/DoubleAut/wished/)
+-   🔭 I’m currently working in startup ✨ Vision Project ✨
 
 -   👯 I’m looking to collaborate on [Linux](https://github.com/torvalds/linux)
 
